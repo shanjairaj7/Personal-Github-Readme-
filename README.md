@@ -11,5 +11,5 @@ I am currently a Associate Software Engineer at CaggabeApps. I am a Self-taught 
 ## Let's Connect.
 
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shanjai-raj-290b631bb/)
-[![Generic badge](https://img.shields.io/badge/YouTube-black.svg?style=for-the-badge)](https://www.youtube.com/c/ShanjaiRaj/videos)
+[![Generic badge](https://img.shields.io/badge/YouTube-red.svg?style=for-the-badge)](https://www.youtube.com/c/ShanjaiRaj/videos)
 [<img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/shanjai_raj)

@@ -4,9 +4,9 @@ I am currently a Associate Software Engineer at CaggabeApps. I am a Self-taught 
 
 ## What I am working on.
 
-✍️ Currently Learning TypeScript and more Backend Technologies
-🏢 Working on creating a Side Business
-🎬 Creating YouTube videos
+- ✍️ Currently Learning TypeScript and more Backend Technologies
+- 🏢 Working on creating a Side Business
+- 🎬 Creating YouTube videos
 
 ## Let's Connect.
 

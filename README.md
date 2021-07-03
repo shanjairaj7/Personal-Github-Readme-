@@ -1,10 +1,10 @@
 ## Hello everyone 👋 I am Shanjai Raj
 
-I am currently a Associate Software Engineer at CaggabeApps. I am a Self-taught Software Engineer, I also have a passion for UI/UX Designing. I also have my own YouTube channel where I make Programming tutorials and Tips/Tricks videos to help out developers. I also make posts informative content on other platforms like Twitter to help out developers as well. I am also doing my Diploma in Software Engineering.
+I am a Self-taught Software Engineer, I also have a passion for UI/UX Designing. I also have my own YouTube channel where I make Programming tutorials and Tips/Tricks videos to help out developers. I also make posts informative content on other platforms like Twitter to help out developers as well. I am also doing my Diploma in Software Engineering.
 
 ## What I am working on.
 
-- ✍️ Currently Learning TypeScript and more Backend Technologies
+- ✍️ Creating Fullstack Projects
 - 🏢 Working on creating a Side Business
 - 🎬 Creating YouTube videos
 
